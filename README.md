@@ -1,6 +1,4 @@
-# jslover
-
-## 17 Sublime Text tips and shortcuts to save you tons of time
+# Top 17 Sublime Text tips and shortcuts to save you tons of time by Rajnish Singh
 
 // 1) CMD+CLICK (CTRL+CLICK) --> Multi-cursor
 // 2) CMD+D (CTRL+D) --> Select next occurrence
